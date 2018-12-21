@@ -1,0 +1,62 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="ChangesView.Diff" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="Symfony2Symbols">
+    <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+</keymap>

@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,8 +18,8 @@
     <mask>*.json</mask>
     <mask>*Type.php</mask>
     <mask>*.mk</mask>
-    <mask>*.yml</mask>
     <mask>*.html.php</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>

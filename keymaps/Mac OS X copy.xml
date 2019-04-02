@@ -1,0 +1,25 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="ChangesView.Diff" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="openAssertEqualsDiff" />
+</keymap>

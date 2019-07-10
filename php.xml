@@ -7,121 +7,12 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/bin/php" id="4ef76f09-e59e-4aa7-a59b-36846f1c7cd0" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-      <interpreter home="$USER_HOME$/workspace/lp/sso/.tools/docker-php" id="11e190ea-d5c8-40c7-be40-b7c75a805d3e" name="docker php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="4ef76f09-e59e-4aa7-a59b-36846f1c7cd0" name="PHP 7.1" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="11e190ea-d5c8-40c7-be40-b7c75a805d3e" name="docker php" home="$USER_HOME$/workspace/lp/sso/.tools/docker-php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="docker php">
-        <phpinfo binary_type="HHVM" php_cli="/usr/bin/hhvm" path_separator=":" version="5.6.99-hhvm">
-          <additional_php_ini>/etc/hhvm/server.ini</additional_php_ini>
-          <configuration_file>/etc/hhvm/php.ini</configuration_file>
-          <configuration_options>
-            <configuration_option name="include_path" value="." />
-          </configuration_options>
-          <debuggers />
-          <loaded_extensions>
-            <extension name="Phar" />
-            <extension name="apc" />
-            <extension name="array" />
-            <extension name="asio" />
-            <extension name="async_mysql" />
-            <extension name="bcmath" />
-            <extension name="bz2" />
-            <extension name="collections" />
-            <extension name="ctype" />
-            <extension name="curl" />
-            <extension name="date" />
-            <extension name="debugger" />
-            <extension name="dom" />
-            <extension name="domdocument" />
-            <extension name="enum" />
-            <extension name="exif" />
-            <extension name="factparse" />
-            <extension name="fb" />
-            <extension name="fileinfo" />
-            <extension name="filter" />
-            <extension name="gd" />
-            <extension name="generator" />
-            <extension name="gettext" />
-            <extension name="gmp" />
-            <extension name="hash" />
-            <extension name="heapgraph" />
-            <extension name="hh" />
-            <extension name="hh_client" />
-            <extension name="hhvm.debugger" />
-            <extension name="hhvm.ini" />
-            <extension name="hosthealthmonitor" />
-            <extension name="hotprofiler" />
-            <extension name="iconv" />
-            <extension name="idn" />
-            <extension name="imagick" />
-            <extension name="imap" />
-            <extension name="intervaltimer" />
-            <extension name="intl" />
-            <extension name="json" />
-            <extension name="ldap" />
-            <extension name="libxml" />
-            <extension name="lz4" />
-            <extension name="mail" />
-            <extension name="mailparse" />
-            <extension name="mbstring" />
-            <extension name="mcrouter" />
-            <extension name="mcrypt" />
-            <extension name="memcache" />
-            <extension name="memcached" />
-            <extension name="mysql" />
-            <extension name="mysqli" />
-            <extension name="objprof" />
-            <extension name="openssl" />
-            <extension name="password" />
-            <extension name="pcntl" />
-            <extension name="pcre" />
-            <extension name="pdo" />
-            <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
-            <extension name="pdo_sqlite" />
-            <extension name="pgsql" />
-            <extension name="posix" />
-            <extension name="random" />
-            <extension name="readline" />
-            <extension name="redis" />
-            <extension name="reflection" />
-            <extension name="scrypt" />
-            <extension name="server" />
-            <extension name="session" />
-            <extension name="shmop" />
-            <extension name="simplexml" />
-            <extension name="soap" />
-            <extension name="sockets" />
-            <extension name="sodium" />
-            <extension name="spl" />
-            <extension name="sqlite3" />
-            <extension name="standard" />
-            <extension name="stream" />
-            <extension name="string" />
-            <extension name="sysvmsg" />
-            <extension name="sysvsem" />
-            <extension name="sysvshm" />
-            <extension name="thread" />
-            <extension name="thrift_protocol" />
-            <extension name="tokenizer" />
-            <extension name="url" />
-            <extension name="wddx" />
-            <extension name="weakref" />
-            <extension name="xenon" />
-            <extension name="xhp" />
-            <extension name="xhprof" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlwriter" />
-            <extension name="xsl" />
-            <extension name="zip" />
-            <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
       <interpreter name="PHP 7.1">
         <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.1.23">
           <additional_php_ini />

@@ -20,5 +20,6 @@
     <mask>*.mk</mask>
     <mask>*Page.php</mask>
     <mask>*.php</mask>
+    <mask>env</mask>
   </component>
 </application>

@@ -14,10 +14,10 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="vhost@all" type="PLAIN_TEXT" />
       <mapping ext="dbt" type="PLAIN_TEXT" />
-      <mapping ext="org" type="PLAIN_TEXT" />
       <mapping ext="vhost@portal" type="PLAIN_TEXT" />
+      <mapping ext="vhost@all" type="PLAIN_TEXT" />
+      <mapping ext="org" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />

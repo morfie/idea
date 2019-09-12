@@ -5,22 +5,22 @@
       <mapping pattern="Dockerfile-*" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="console" type="PHP" />
-      <mapping pattern=".jane-openapi" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern=".jane-openapi" type="PHP" />
+      <mapping pattern="console" type="PHP" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="DockerfileOld" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="dbt" type="PLAIN_TEXT" />
-      <mapping ext="vhost@all" type="PLAIN_TEXT" />
       <mapping ext="org" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="vhost@all" type="PLAIN_TEXT" />
       <mapping ext="vhost@portal" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="dbt" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.yml.dist" type="YAML" />
       <removed_mapping pattern="Dockerfile-nginx" approved="true" type="Dockerfile" />

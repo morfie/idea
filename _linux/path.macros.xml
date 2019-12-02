@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="2y" value="/home/morfie" />
+  </component>
+</application>

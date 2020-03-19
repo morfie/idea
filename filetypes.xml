@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Dockerfile-*" type="Dockerfile" />
-      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".jane-openapi" type="PHP" />
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="DockerfileOld" type="PLAIN_TEXT" />

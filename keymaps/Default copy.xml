@@ -1,4 +1,17 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="ActivateTerminalToolWindow" />
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />

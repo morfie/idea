@@ -1,13 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Dockerfile-*" type="Dockerfile" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".jane-openapi" type="PHP" />
       <mapping pattern="console" type="PHP" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="DockerfileOld" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -30,7 +28,7 @@
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="Dockerfile-fpm" approved="true" type="Dockerfile" />

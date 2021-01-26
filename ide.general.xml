@@ -6,5 +6,6 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
     <entry key="documentation.show.toolbar" value="true" />
+    <entry key="vcs.annotations.preload" value="true" />
   </component>
 </application>

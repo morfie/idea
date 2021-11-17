@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="cpanel.voov.hu" id="9bd7b524-f2a1-4b95-b3ca-07e49d4183cc" port="22" nameFormat="DESCRIPTIVE" username="billingo" />
+    </configs>
+  </component>
+</application>

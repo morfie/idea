@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="elasticsearch">
+      <artifact id="Elasticsearch" name="Elasticsearch" use="true" version="7.10.2" />
+    </driver>
     <driver id="cassandra">
       <artifact id="Cassandra" name="Cassandra" use="true" version="1.2.9" />
     </driver>

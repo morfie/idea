@@ -12,10 +12,12 @@
               <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
               <option value="com.intellij.database.model.diff.SchemaDiffTool" />
               <option value="com.intellij.database.diff.TableDiffTool" />
-              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
               <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
+              <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
               <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
               <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+              <option value="com.intellij.diff.tools.combined.CombinedUnifiedDiffTool" />
+              <option value="com.intellij.diff.tools.combined.CombinedSideBySideDiffTool" />
             </list>
           </option>
         </PlaceSettings>
@@ -24,11 +26,6 @@
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
-        </PlaceSettings>
-      </entry>
       <entry key="Merge">
         <PlaceSettings>
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />

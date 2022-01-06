@@ -1,7 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="cpanel.voov.hu" id="9bd7b524-f2a1-4b95-b3ca-07e49d4183cc" port="22" nameFormat="DESCRIPTIVE" username="billingo" />
+      <sshConfig authType="PASSWORD" host="cpanel.voov.hu" id="9bd7b524-f2a1-4b95-b3ca-07e49d4183cc" port="22" nameFormat="DESCRIPTIVE" username="billingo" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="bob-bastion.billingo.hu" id="c24d7f0e-07ca-4ef6-8975-6e91f6142112" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>

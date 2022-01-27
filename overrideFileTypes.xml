@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/workspace/billingo/web/_ide_helper.php" value="PHP" />
+    <file url="file://$USER_HOME$/workspace/billingo/web/storage/logs/laravel.log" value="Log" />
   </component>
 </application>

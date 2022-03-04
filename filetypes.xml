@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Dockerfile-*" type="Dockerfile" />
+      <mapping ext="mp4" type="Native" />
       <mapping pattern=".jane-openapi" type="PHP" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />

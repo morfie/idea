@@ -19,7 +19,6 @@
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="vhost@portal" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="*.yml.dist" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -33,6 +32,7 @@
       <removed_mapping pattern="Dockerfile-fpm" approved="true" type="Dockerfile" />
       <removed_mapping pattern="Dockerfile-nginx" approved="true" type="Dockerfile" />
       <mapping ext="lock" type="composer.json" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="vhost" type="nginx file type" />
     </extensionMap>
   </component>

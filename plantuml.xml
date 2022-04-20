@@ -5,5 +5,6 @@
     <option name="dotExecutable" value="/usr/bin/dot" />
     <option name="includedPaths" value="" />
     <option name="lastBundledVersion" value="1.2021.16" />
+    <option name="remoteRendering" value="true" />
   </component>
 </application>

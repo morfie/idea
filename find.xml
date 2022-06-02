@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.scss</mask>
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -16,5 +16,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
